@@ -1,2 +1,3 @@
 # hello-world
 this is step 1 of the tutorial
+This is a tutorial I am doing while working at home. I am working from home becasue of the stupid COVID-19 lockdown. This sucks...
